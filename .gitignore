@@ -1,2 +1,5 @@
 /.DS_Store
 /.vscode
+data/
+pre_trained/
+.ipynb_checkpoints/
